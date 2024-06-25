@@ -1,0 +1,34 @@
+.styles
+{
+    background: linear-gradient(to right, #000000, #b84c0f);
+
+    padding-left: 6%;
+    padding-top:4% ;
+  
+}
+img
+{
+    background-color:transparent;
+    
+    height: 350px;
+    width: 225px;
+    padding-bottom: 2%;
+}
+p1{
+    color:#ffffff;
+}
+.new{
+    text-align: left;
+    color: #ffffff;
+}
+.reviewer-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.rating {
+    color: #ffd700; /* Gold color for the stars */
+    margin-right: 10px;
+}

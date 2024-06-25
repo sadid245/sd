@@ -1,0 +1,40 @@
+img
+{
+    background-color:transparent;
+    height: 400px;
+    width: 225px;
+    padding-bottom: 10;
+    
+}
+.style
+{
+   
+    background: linear-gradient(to left, #000000, #8b0000);
+
+
+    padding-left: 11%;
+    padding-top: 7%;    
+    padding-bottom: 4%;
+}
+.sl-1
+{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
+.sl-2
+{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
+.sl-3
+{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
+.Textc{
+    color: #ffffffb9;
+    
+}
